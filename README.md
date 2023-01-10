@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Sung-Hao Lin (Miguel), an iOS developer.
+### Hi! 👋 I'm Sung-Hao Lin (Miguel), an iOS Engineer.
 <!--
 **gannasong/gannasong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
